@@ -1,0 +1,6 @@
+data/
+datasets/
+DocsGw/
+modelGw/
+ModelGw_woNorm/
+util/vlfeat-0.9.18/
